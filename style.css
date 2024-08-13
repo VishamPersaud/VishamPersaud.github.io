@@ -1,0 +1,155 @@
+.navbar {
+    height: 60px;
+    background-color: yellow; 
+  }
+
+  .box {
+    height:60px;
+    width: 1090px;
+    background-color: rgb(38, 235, 208);
+    text-align: center;
+  
+  }
+   
+.AboutHeader {
+  text-align: center;
+}
+
+.box1 {
+  height:260px;
+  width: 310px;
+  color:white;
+  background-color: rgb(5, 1, 1);
+  text-align: center;
+
+}
+
+.box2 {
+  height:360px;
+  width: 410px;
+  color:white;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+
+}
+
+.box3 {
+  height:270px;
+  width: 310px;
+  color:white;
+  background-color: rgb(5, 1, 1);
+  text-align: center;
+
+}
+
+ 
+.cook {
+  display: inline-block;  
+  vertical-align: middle; 
+  margin-left: 50px;  
+}
+
+.cook img {
+  width: 250px;  
+  height: auto;
+ 
+ 
+}
+
+
+.hidden {
+  display: none;
+}
+
+ 
+
+.hack {
+  display: inline-block;  
+  vertical-align: middle; 
+  margin-left: 420px;  
+}
+
+.hack img {
+  width: 250px;  
+  height: auto;
+ 
+ 
+}
+
+.hidden2 {
+  display: none;
+}
+ 
+
+
+.back{
+
+  background-image:url('https://masterbundles.com/wp-content/uploads/2023/09/trending-comic-background-36-189.jpg')
+
+}
+
+.Sub {
+  font-weight: bold;
+  color:rgb(22, 0, 164);
+   
+}
+   
+
+
+.SmallB { 
+  display: inline-block;  
+  vertical-align: middle; 
+  margin-left:10px;   
+}
+
+
+
+.SmallB img {
+  width: 650px;  
+  height: 400px; 
+}
+
+.favorite {
+  display: inline-block;  
+  vertical-align: middle; 
+  margin-left: 780px;  
+}
+
+.favorite img {
+  width: 250px;  
+  height: auto;
+ 
+ 
+}
+
+.hidden3 {
+  display: none;
+}
+
+
+.Overall { 
+  display: inline-block;  
+  vertical-align: middle; 
+  margin-left: 290px;   
+}
+
+.Overall img {
+  width: 650px;  
+  height: 400px; 
+}
+
+
+.moon { 
+  display: inline-block;  
+  vertical-align: middle; 
+  margin-left: 400px;   
+}
+
+a {
+  font-weight: bold;
+  color: #0a0a0a;  
+  text-decoration: underline;  
+  font-size: large;
+}
+
+ 
